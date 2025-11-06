@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title> ผลงานของฉัน </title>
+</head>
+	 <body>
+	<h1> สวัสดีครับ ฉันชื่อ จิรทิปต์ ดอกไม้หอม </h1>
+<p>นักศึกษาแผนกเทคโนโลยีสารสนเทศ</p>
+
+
+<h2> ผลงานของฉัน </h2>
+<ul>
+	<li><a href="#">โปรเจกที่1</a></li>
+	<li><a href="#">โปรเจกที่2</a></li>
+	<ul>
+
+<footer>ติดต่อ: email:jiratipdokmaihom10903@gmail.com </footer>
+</body>
+</html>
